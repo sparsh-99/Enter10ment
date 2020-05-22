@@ -17,7 +17,7 @@ The features of the website is providing Music, Videos, Movies, Anime, Sports, e
 </p>
 <hr>
 <h3>Output</h3>
-<img src="C:\Users\spars\OneDrive\Pictures\Screenshots\Screenshot (462).png" alt="The UI of the website is here">
+![Output](https://user-images.githubusercontent.com/56729873/82703261-3022cf00-9c91-11ea-86e3-c35ddffbe11a.png)
 <br>
 <hr>
 <h2>Main page</h2>
