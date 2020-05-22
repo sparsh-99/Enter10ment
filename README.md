@@ -17,7 +17,8 @@ The features of the website is providing Music, Videos, Movies, Anime, Sports, e
 </p>
 <hr>
 <h3>Output</h3>
-![Output](https://user-images.githubusercontent.com/56729873/82703261-3022cf00-9c91-11ea-86e3-c35ddffbe11a.png)
+<img src="https://user-images.githubusercontent.com/56729873/82703261-3022cf00-9c91-11ea-86e3-c35ddffbe11a.png">
+<img src="https://user-images.githubusercontent.com/56729873/82705764-e8527680-9c95-11ea-9d82-bbda7af4e937.png">
 <br>
 <hr>
 <h2>Main page</h2>
