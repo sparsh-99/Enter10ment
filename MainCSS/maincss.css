@@ -1,0 +1,260 @@
+body {
+	border-style:Dotted;
+	background-image:linear-gradient(white ,#ffc9c9);
+}
+.sidebar {
+	height: 50px;
+    top: 0;
+    background-color: #111;
+	display: block;
+	overflow: hidden;
+}
+.sidebar a {
+    padding: 8px;
+    font-size: 19px;
+    color: white;
+    display: inline;
+	text-decoration:none;
+}
+ul {
+	list-style-type: none;
+}
+li.right {
+	float:right;
+	padding-right:30px;
+}
+li {
+    float: left;
+}
+a.hover {
+	color: red;
+}
+.footer {
+    background: red;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 30px;
+}
+.te1 {
+		background-color:white;
+		border: solid;
+		margin: 0px 30% 0px 30%;
+}
+.findus {
+	background-color: #000c33;
+	padding-left:40px;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+.login-page{
+	width:360;
+	padding:3% 0 0;
+	margin: auto;
+}
+
+.form{
+	position:relative;
+	z-index: 1;
+	background: white;
+	max-width: 360px;
+	margin: 0 auto 100px;
+	padding: 45px;
+	text-align: center;
+}
+
+.form input{
+  font-family: "Roboto",sans-serif;
+  outline: 1;
+  background: lightgray;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+.form button{
+	font-family: "Roboto",sans-serif;
+	text-transform: uppercase;
+	outline: 0;
+	background: #4CAF50;
+	width: 100%;
+	border: 0;
+	padding: 15px;
+	color: #FFFFFF;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.form button:hover,.form button:active{
+		box-shadow: darkblue;
+		background: #43A047;
+}
+
+.form .message{
+	margin: 15px 0 0;
+	color: blue;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+.form .message a{
+	color: blue;
+	text-decoration: none;
+}
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease-in;
+  color: white;
+  font-size: 20px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background: #28A9E0;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+.product {
+	padding: 0 20% 5px 20%;
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    background-color: white;
+    color: black;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+	width: 320px;
+    top: 50%;
+    left: 120%; 
+    margin-left: -60px;
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+/* For the inside modal content*/
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  margin: 0 -16px;
+}
+
+.col-25 {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+}
+
+.col-50 {
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+}
+
+.col-75 {
+  -ms-flex: 75%; /* IE10 */
+  flex: 75%;
+}
+
+.col-25,
+.col-50,
+.col-75 {
+  padding: 0 16px;
+}
+
+.container {
+  background-color: #f2f2f2;
+  padding: 5px 20px 15px 20px;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+
+input[type=text] {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.icon-container {
+  margin-bottom: 20px;
+  padding: 7px 0;
+  font-size: 24px;
+}
+
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  width: 100%;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 17px;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+a {
+  color: #2196F3;
+}
+
+hr {
+  border: 1px solid lightgrey;
+}
+
+span.price {
+  float: right;
+  color: grey;
+}
