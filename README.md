@@ -10,7 +10,7 @@ Now, working on it to make it more readable and scalable.
 Feel free to open PR related to ToDo or something new feature.
 
 #### To-Do's:
-[ ] Update UI
-[ ] Improve the responsiveness
-[ ] Add sections
-[ ] Enable dark theme
+- [ ] Update UI
+- [ ] Improve the responsiveness
+- [ ] Add sections
+- [ ] Enable dark theme
