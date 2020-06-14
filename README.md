@@ -7,3 +7,10 @@ Now, working on it to make it more readable and scalable.
 ![Screenshot (508)](https://user-images.githubusercontent.com/56729873/84538172-d13ffb00-ad0e-11ea-8056-cb45c65cdb20.png)
 
 #### Work under progress
+Feel free to open PR related to ToDo or something new feature.
+
+#### To-Do's:
+[ ] Update UI
+[ ] Improve the responsiveness
+[ ] Add sections
+[ ] Enable dark theme
