@@ -1,16 +1,7 @@
 # Enter10ment-website
-This is a simple User Interface of a website created in HTML, CSS and JavaScript in my web-development beginning phase i.e in my 3rd sem.
+This is a simple User Interface of a website created in HTML, CSS and JavaScript in my web-development beginning phase.
 
-Now, working on it to make it more readable and scalable.
+## Environment
+https://sparsh-99.github.io/Enter10ment-website/
 
-### Output
-![Screenshot (508)](https://user-images.githubusercontent.com/56729873/84538172-d13ffb00-ad0e-11ea-8056-cb45c65cdb20.png)
-
-#### Work under progress
-Feel free to open PR related to ToDo or something new feature.
-
-#### To-Do's:
-- [ ] Update UI
-- [ ] Improve the responsiveness
-- [ ] Add sections
-- [ ] Enable dark theme
+[![](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/images/0)](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/links/0)[![](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/images/1)](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/links/1)[![](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/images/2)](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/links/2)[![](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/images/3)](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/links/3)[![](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/images/4)](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/links/4)[![](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/images/5)](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/links/5)[![](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/images/6)](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/links/6)[![](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/images/7)](https://sourcerer.io/fame/sparsh-99/sparsh-99/Enter10ment-website/links/7)
